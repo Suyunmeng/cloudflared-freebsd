@@ -1,0 +1,198 @@
+{
+  "2021.11.0": {
+    "buildDate": "2022-02-11T12:13:47",
+    "platform": "FreeBSD",
+    "releaseDate": "2021-12-11T11:26:44Z",
+    "binary7zipPath": "binaries/cloudflared-freebsd-2021.11.0.7z",
+    "binarySHA1Path": "binaries/cloudflared-freebsd-2021.11.0.sha1"
+  },
+  "2022.10.0": {
+    "buildDate": "2022-10-17T12:40:14",
+    "platform": "FreeBSD",
+    "releaseDate": "2022-10-15T11:59:29Z",
+    "binary7zipPath": "binaries/cloudflared-freebsd-2022.10.0.7z",
+    "binarySHA1Path": "binaries/cloudflared-freebsd-2022.10.0.sha1"
+  },
+  "2022.12.1": {
+    "buildDate": "2023-01-02T13:00:27",
+    "platform": "FreeBSD",
+    "releaseDate": "2022-12-27T13:03:03Z",
+    "binary7zipPath": "binaries/cloudflared-freebsd-2022.12.1.7z",
+    "binarySHA1Path": "binaries/cloudflared-freebsd-2022.12.1.sha1"
+  },
+  "2022.2.0": {
+    "buildDate": "2022-02-12T10:58:22",
+    "platform": "FreeBSD",
+    "releaseDate": "2022-02-10T15:11:14Z",
+    "binary7zipPath": "binaries/cloudflared-freebsd-2022.2.0.7z",
+    "binarySHA1Path": "binaries/cloudflared-freebsd-2022.2.0.sha1"
+  },
+  "2022.2.1": {
+    "buildDate": "2022-02-20T12:38:27",
+    "platform": "FreeBSD",
+    "releaseDate": "2022-02-19T20:40:16Z",
+    "binary7zipPath": "binaries/cloudflared-freebsd-2022.2.1.7z",
+    "binarySHA1Path": "binaries/cloudflared-freebsd-2022.2.1.sha1"
+  },
+  "2022.2.2": {
+    "buildDate": "2022-02-27T22:26:07",
+    "platform": "FreeBSD",
+    "releaseDate": "2022-02-26T11:49:26Z",
+    "binary7zipPath": "binaries/cloudflared-freebsd-2022.2.2.7z",
+    "binarySHA1Path": "binaries/cloudflared-freebsd-2022.2.2.sha1"
+  },
+  "2022.4.0": {
+    "buildDate": "2022-04-10T12:41:55",
+    "platform": "FreeBSD",
+    "releaseDate": "2022-04-10T09:15:23Z",
+    "binary7zipPath": "binaries/cloudflared-freebsd-2022.4.0.7z",
+    "binarySHA1Path": "binaries/cloudflared-freebsd-2022.4.0.sha1"
+  },
+  "2022.4.0_1": {
+    "buildDate": "2022-06-08T12:57:28",
+    "platform": "FreeBSD",
+    "releaseDate": "2022-06-07T18:31:25Z",
+    "binary7zipPath": "binaries/cloudflared-freebsd-2022.4.0_1.7z",
+    "binarySHA1Path": "binaries/cloudflared-freebsd-2022.4.0_1.sha1"
+  },
+  "2022.6.2": {
+    "buildDate": "2022-06-20T12:45:15",
+    "platform": "FreeBSD",
+    "releaseDate": "2022-06-19T12:36:40Z",
+    "binary7zipPath": "binaries/cloudflared-freebsd-2022.6.2.7z",
+    "binarySHA1Path": "binaries/cloudflared-freebsd-2022.6.2.sha1"
+  },
+  "2022.7.1": {
+    "buildDate": "2022-07-25T12:58:53",
+    "platform": "FreeBSD",
+    "releaseDate": "2022-08-03T20:51:17Z",
+    "binary7zipPath": "binaries/cloudflared-freebsd-2022.7.1.7z",
+    "binarySHA1Path": "binaries/cloudflared-freebsd-2022.7.1.sha1"
+  },
+  "2022.9.1_1": {
+    "buildDate": "2022-10-10T12:25:28",
+    "platform": "FreeBSD",
+    "releaseDate": "2022-10-06T11:24:35Z",
+    "binary7zipPath": "binaries/cloudflared-freebsd-2022.9.1_1.7z",
+    "binarySHA1Path": "binaries/cloudflared-freebsd-2022.9.1_1.sha1"
+  },
+  "2023.2.1": {
+    "buildDate": "2023-02-13T12:55:39",
+    "platform": "FreeBSD",
+    "releaseDate": "2023-02-12T15:26:23Z",
+    "binary7zipPath": "binaries/cloudflared-freebsd-2023.2.1.7z",
+    "binarySHA1Path": "binaries/cloudflared-freebsd-2023.2.1.sha1"
+  },
+  "2023.6.1": {
+    "buildDate": "2023-07-03T08:45:11+00:00",
+    "platform": "FreeBSD",
+    "releaseDate": "2023-06-20T08:24:26Z",
+    "binary7zipPath": "binaries/cloudflared-freebsd-2023.6.1.7z",
+    "binarySHA1Path": "binaries/cloudflared-freebsd-2023.6.1.sha1"
+  },
+  "2023.7.0": {
+    "buildDate": "2023-07-12T08:45:51+00:00",
+    "platform": "FreeBSD",
+    "releaseDate": "2023-07-11T17:28:45Z",
+    "binary7zipPath": "binaries/cloudflared-freebsd-2023.7.0.7z",
+    "binarySHA1Path": "binaries/cloudflared-freebsd-2023.7.0.sha1"
+  },
+  "2023.7.1": {
+    "buildDate": "2023-07-17T08:46:08+00:00",
+    "platform": "FreeBSD",
+    "releaseDate": "2023-07-13T19:31:33Z",
+    "binary7zipPath": "binaries/cloudflared-freebsd-2023.7.1.7z",
+    "binarySHA1Path": "binaries/cloudflared-freebsd-2023.7.1.sha1"
+  },
+  "2023.7.2": {
+    "buildDate": "2023-07-25T08:45:11+00:00",
+    "platform": "FreeBSD",
+    "releaseDate": "2023-07-21T22:31:10Z",
+    "binary7zipPath": "binaries/cloudflared-freebsd-2023.7.2.7z",
+    "binarySHA1Path": "binaries/cloudflared-freebsd-2023.7.2.sha1"
+  },
+  "2023.7.3": {
+    "buildDate": "2023-07-27T08:45:14+00:00",
+    "platform": "FreeBSD",
+    "releaseDate": "2023-07-25T20:51:50Z",
+    "binary7zipPath": "binaries/cloudflared-freebsd-2023.7.3.7z",
+    "binarySHA1Path": "binaries/cloudflared-freebsd-2023.7.3.sha1"
+  },
+  "2023.8.2": {
+    "buildDate": "2023-09-06T08:45:36+00:00",
+    "platform": "FreeBSD",
+    "releaseDate": "2023-08-30T15:39:52Z",
+    "binary7zipPath": "binaries/cloudflared-freebsd-2023.8.2.7z",
+    "binarySHA1Path": "binaries/cloudflared-freebsd-2023.8.2.sha1"
+  },
+  "2023.10.0": {
+    "buildDate": "2023-11-01T08:45:23+00:00",
+    "platform": "FreeBSD",
+    "releaseDate": "2023-10-31T09:11:23Z",
+    "binary7zipPath": "binaries/cloudflared-freebsd-2023.10.0.7z",
+    "binarySHA1Path": "binaries/cloudflared-freebsd-2023.10.0.sha1"
+  },
+  "2024.1.5": {
+    "buildDate": "2024-01-28T12:49:13+00:00",
+    "platform": "FreeBSD",
+    "releaseDate": "2024-01-25T16:29:22Z",
+    "binary7zipPath": "binaries/cloudflared-freebsd-2024.1.5.7z",
+    "binarySHA1Path": "binaries/cloudflared-freebsd-2024.1.5.sha1"
+  },
+  "2024.2.0": {
+    "buildDate": "2024-02-09T08:44:55+00:00",
+    "platform": "FreeBSD",
+    "releaseDate": "2024-02-08T10:20:02Z",
+    "binary7zipPath": "binaries/cloudflared-freebsd-2024.2.0.7z",
+    "binarySHA1Path": "binaries/cloudflared-freebsd-2024.2.0.sha1"
+  },
+  "2024.2.1": {
+    "buildDate": "2024-03-12T21:08:37+00:00",
+    "platform": "FreeBSD",
+    "releaseDate": "2024-02-20T16:25:25Z",
+    "binary7zipPath": "binaries/cloudflared-freebsd-2024.2.1.7z",
+    "binarySHA1Path": "binaries/cloudflared-freebsd-2024.2.1.sha1"
+  },
+  "2024.3.0": {
+    "buildDate": "2024-03-21T08:47:05+00:00",
+    "platform": "FreeBSD",
+    "releaseDate": "2024-03-19T18:08:31Z",
+    "binary7zipPath": "binaries/cloudflared-freebsd-2024.3.0.7z",
+    "binarySHA1Path": "binaries/cloudflared-freebsd-2024.3.0.sha1"
+  },
+  "2024.4.0": {
+    "buildDate": "2024-04-11T08:47:26+00:00",
+    "platform": "FreeBSD",
+    "releaseDate": "2024-04-08T21:09:14Z",
+    "binary7zipPath": "binaries/cloudflared-freebsd-2024.4.0.7z",
+    "binarySHA1Path": "binaries/cloudflared-freebsd-2024.4.0.sha1"
+  },
+  "2024.4.1": {
+    "buildDate": "2024-04-24T08:47:12+00:00",
+    "platform": "FreeBSD",
+    "releaseDate": "2024-04-22T22:16:50Z",
+    "binary7zipPath": "binaries/cloudflared-freebsd-2024.4.1.7z",
+    "binarySHA1Path": "binaries/cloudflared-freebsd-2024.4.1.sha1"
+  },
+  "2024.5.0": {
+    "buildDate": "2024-05-18T08:59:08+00:00",
+    "platform": "FreeBSD",
+    "releaseDate": "2024-05-16T14:20:06Z",
+    "binary7zipPath": "binaries/cloudflared-freebsd-2024.5.0.7z",
+    "binarySHA1Path": "binaries/cloudflared-freebsd-2024.5.0.sha1"
+  },
+  "2024.6.0": {
+    "buildDate": "2024-06-04T08:47:17+00:00",
+    "platform": "FreeBSD",
+    "releaseDate": "2024-06-03T18:29:11Z",
+    "binary7zipPath": "binaries/cloudflared-freebsd-2024.6.0.7z",
+    "binarySHA1Path": "binaries/cloudflared-freebsd-2024.6.0.sha1"
+  },
+  "2024.6.1": {
+    "buildDate": "2024-06-19T08:47:33+00:00",
+    "platform": "FreeBSD",
+    "releaseDate": "2024-06-17T15:30:52Z",
+    "binary7zipPath": "binaries/cloudflared-freebsd-2024.6.1.7z",
+    "binarySHA1Path": "binaries/cloudflared-freebsd-2024.6.1.sha1"
+  }
+}
